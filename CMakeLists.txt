@@ -10,7 +10,6 @@ include_directories(${GMOCK_INCLUDE_DIR})
 include_directories(include)
 
 
-
 add_library(add src/add.cpp)
 
 add_executable(add_unit_test add_unit_test.cpp)

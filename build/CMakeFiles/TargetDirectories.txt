@@ -1,6 +1,0 @@
-/media/robot/dev/proj/CPP/gtest_demo/demo/build/CMakeFiles/rebuild_cache.dir
-/media/robot/dev/proj/CPP/gtest_demo/demo/build/CMakeFiles/package_source.dir
-/media/robot/dev/proj/CPP/gtest_demo/demo/build/CMakeFiles/package.dir
-/media/robot/dev/proj/CPP/gtest_demo/demo/build/CMakeFiles/add.dir
-/media/robot/dev/proj/CPP/gtest_demo/demo/build/CMakeFiles/edit_cache.dir
-/media/robot/dev/proj/CPP/gtest_demo/demo/build/CMakeFiles/add_unit_test.dir

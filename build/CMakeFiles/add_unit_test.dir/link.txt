@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/add_unit_test.dir/add_unit_test.cpp.o  -o add_unit_test libadd.a ../3rdparty/gtest/lib//libgtest.a -lpthread 
